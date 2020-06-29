@@ -1,0 +1,4 @@
+([{"name":"The Forest Hiker","price":297,"rating":4.7},
+{"name":"The Snow Adventurer","price":597,"rating":4.9},
+]
+)
